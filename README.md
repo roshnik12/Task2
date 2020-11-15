@@ -1,0 +1,2 @@
+# Task2
+Task: Do a write up for the followings: Difference between HTTP1.1 vs HTTP2 http version history List 5 difference between Browser JS(console) vs Nodejs What happens when you type a URL in the address bar in the browser?  Solutions:https://medium.com/@roshnikushwahaknp101/http1-1-vs-http2-whats-the-difference-ab0da7493596 https://roshnikushwahaknp101.medium.com/history-http-version-93c2d6b34d30 https://medium.com/@roshnikushwahaknp101/javascript-console-vs-nodejs-c8732efc190a https://medium.com/@roshnikushwahaknp101/javascript-console-vs-nodejs-c8732efc190a 
